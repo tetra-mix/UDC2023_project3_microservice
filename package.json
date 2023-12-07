@@ -1,5 +1,6 @@
 {
   "name": "project3-microservice",
+  "homepage": "https://tetra-mix.github.io/UDC2023_project3_microservice/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
