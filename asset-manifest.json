@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/UDC2023_project3_microservice/static/js/main.4ac0c163.js",
+    "main.js": "/UDC2023_project3_microservice/static/js/main.711d2eff.js",
     "index.html": "/UDC2023_project3_microservice/index.html",
-    "main.4ac0c163.js.map": "/UDC2023_project3_microservice/static/js/main.4ac0c163.js.map"
+    "main.711d2eff.js.map": "/UDC2023_project3_microservice/static/js/main.711d2eff.js.map"
   },
   "entrypoints": [
-    "static/js/main.4ac0c163.js"
+    "static/js/main.711d2eff.js"
   ]
 }
